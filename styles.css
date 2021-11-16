@@ -6,7 +6,7 @@ body {
 
 :root {
     --primary-color: #FCD34D;
-    --green: green;
+    --chai: #D97706;
     --off-white: #EFF6FF;
 }
 
@@ -120,7 +120,7 @@ hr {
 
 .hero .hero-heading {
     font-size: 2rem;
-    color: var(--green);
+    color: var(--chai);
     padding-top: 1rem;
     text-align: center;
 }
