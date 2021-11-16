@@ -5,14 +5,15 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --primary-color: yellow;
+    --primary-color: #FCD34D;
     --green: green;
-    --off-white: #F3F4F6;
+    --off-white: #EFF6FF;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
     margin: 0rem;
+    font-family: 'Dancing Script', cursive;
 
 }
 
@@ -163,4 +164,8 @@ hr {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+.cont {
+    box-shadow: 2px 2px 3px 3px black;
 }
